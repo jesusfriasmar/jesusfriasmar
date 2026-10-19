@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jesús Frías
+# 👋 Hola, soy Jesus Frias
 
 🎓 Estudiante de Ingeniería en Electrónica y Comunicaciones (7° semestre) en FIME-UANL  
 🔐 Interesado en **Ciberseguridad (SOC Analyst, Cloud Security)**  
