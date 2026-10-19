@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Jesús Frías
 
-<!--
-**jesusfriasmar/jesusfriasmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Electrónica y Comunicaciones (7° semestre) en FIME-UANL  
+🔐 Interesado en **Ciberseguridad (SOC Analyst, Cloud Security)**  
+⚡ Certificaciones: Microsoft SC-900, AWS AI Practitioner, Fortinet NSE 1-3  
+📚 Actualmente aprendiendo sobre **SOC fundamentals y herramientas como Wireshark y Splunk**  
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
+- 🔭 [Proyecto de Redes](https://github.com/jesusfriasmar/proyecto-redes) – Configuración de VLANs y OSPF  
+- 🛡️ [Laboratorio de Ciberseguridad](https://github.com/jesusfriasmar/lab-ciberseguridad) – Prácticas de análisis de tráfico  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Cómo contactarme
+- LinkedIn: [linkedin.com/in/jesusfriasmar](https://linkedin.com/in/jesusfriasmar)  
+- Email: jesusfriasmar@example.com  
