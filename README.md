@@ -6,7 +6,7 @@
 📚 Actualmente aprendiendo sobre **SOC fundamentals y herramientas como Wireshark y Splunk**  
 
 ## 🚀 Proyectos destacados
-- 
+- https://github.com/jesusfriasmar/kismet-wifi-monitor
 
 ## 📫 Cómo contactarme
 - LinkedIn: [linkedin.com/in/jesusfriasmar](https://linkedin.com/in/jesusfriasmar)  
