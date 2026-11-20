@@ -6,9 +6,8 @@
 📚 Actualmente aprendiendo sobre **SOC fundamentals y herramientas como Wireshark y Splunk**  
 
 ## 🚀 Proyectos destacados
-- 🔭 [Proyecto de Redes](https://github.com/jesusfriasmar/proyecto-redes) – Configuración de VLANs y OSPF  
-- 🛡️ [Laboratorio de Ciberseguridad](https://github.com/jesusfriasmar/lab-ciberseguridad) – Prácticas de análisis de tráfico  
+- 
 
 ## 📫 Cómo contactarme
 - LinkedIn: [linkedin.com/in/jesusfriasmar](https://linkedin.com/in/jesusfriasmar)  
-- Email: jesusfriasmar@example.com  
+- Email: jesus.frias.mx@outlook.com 
